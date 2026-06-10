@@ -58,14 +58,14 @@ streamlit run app.py
 1. Push this repo to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io)
 3. Click **New app** → select your repo → set `app.py` as the main file
-4. Click **Deploy** — live in ~2 minutes
+4. Click **Deploy** - live in ~2 minutes
 
 ---
 
 ## 🧠 AI Agent Details
 
 - **Model:** Llama 3.1 8B Instant via Groq
-- **No API keys stored** — entered by the user in the sidebar each session
+- **No API keys stored** - entered by the user in the sidebar each session
 
 The AI agent is a pool supply pricing analyst. It understands:
 - Amazon Buy Box dynamics and eligibility
@@ -120,7 +120,7 @@ This project demonstrates:
 - ✅ Data-driven pricing analysis with live competitor data
 - ✅ Knowledge of real pool supply product catalog and seasonal business cycles
 - ✅ Ability to build with real APIs (RapidAPI, Groq)
-- ✅ Initiative and ownership — built before being asked
+- ✅ Initiative and ownership - built before being asked
 
 ---
 
