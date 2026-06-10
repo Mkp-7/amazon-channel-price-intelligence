@@ -25,7 +25,7 @@ This tool mirrors the actual daily work of an Amazon Channel Specialist:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/poolprice-agent.git
+git clone https://github.com/YOUR_USERNAME/amazon-channel-price-intelligence.git
 cd poolprice-agent
 ```
 
